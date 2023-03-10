@@ -2,4 +2,7 @@ password = 'Qohx1mnLNmz3ikshoU'
 
 
 livestorm_jwt_token = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhcGkubGl2ZXN0b3JtLmNvIiwianRpIjoiY2VmNmM5Y2ItZWY4Ny00YTBkLWI5M2UtMDQyNzNhYmM2MzBiIiwiaWF0IjoxNjc4Mzg3NTAxLCJvcmciOiI1NzFhM2IxNy02OGYwLTRjOGItODRlZi03MTQ1YzBjNGE5NWQifQ.Vukh5Gpu3RP93vqGrOd4en9P_AWOXsyfLIrD-5KETzo"
+
+
+iex_api_token="sk_96e67e7c8a9b4deb88a1756644c6301a"
 # step 3 remove
